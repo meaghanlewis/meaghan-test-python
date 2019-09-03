@@ -1,6 +1,8 @@
 # myrepo
 [![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
 
+[![codecov](https://codecov.io/gh/meaghanlewis/meaghan-test-python/branch/master/graph/badge.svg)](https://codecov.io/gh/meaghanlewis/meaghan-test-python)
+
 This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
 
